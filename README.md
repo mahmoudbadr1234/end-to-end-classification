@@ -1,4 +1,4 @@
-# End-to-End Classification | Data Science Portfolio Project 🚀
+# End-to-End Breast Cancer Classification | Data Science Portfolio Project 🩺
 
 A portfolio-ready machine learning project demonstrating a complete classification workflow: data loading, exploratory analysis, preprocessing, model comparison, evaluation, feature interpretation, and model persistence.
 
